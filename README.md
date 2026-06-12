@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nirooz
+# Hi I'm Nirooz :wave:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NIROOZbx/NIROOZbx/main/banner-video.gif" width="600" />
