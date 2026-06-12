@@ -38,8 +38,18 @@ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,postman,figma," />
 </p>
----
 
+<hr>
+# ⚡️ Stats
+
+<br>
+
+<div align=center>
+   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NIROOZbx&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Nirooz 's" />
+
+</div>
+
+<hr>
 
 <div align="center">
   <picture>
