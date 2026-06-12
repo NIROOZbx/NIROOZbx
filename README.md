@@ -14,6 +14,12 @@ Building production-grade backend systems and exploring Web3.
   <a href="https://www.linkedin.com/in/nirooz-vp-4a4227254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+<a href="https://www.reddit.com/user/Leading-West-4881/" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+<a href="https://twitter.com/nirooz18" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 </div>
 </div>
 
