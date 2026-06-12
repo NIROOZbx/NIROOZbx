@@ -9,7 +9,7 @@
 **Full Stack Developer · Go · Distributed Systems**
 
 Building production-grade backend systems and exploring Web3.
- Open to full-time roles.
+Open to full-time roles.
 
 
 
@@ -47,7 +47,6 @@ Tech Stack
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NIROOZbx&theme=highcontrast&card_width=500" alt="GitHub Streak" /></a>
 </div>
-
 <hr>
 
 # 📊 Contributions
@@ -58,3 +57,5 @@ Tech Stack
     <img alt="github-snake" src="https://raw.githubusercontent.com/NIROOZbx/NIROOZbx/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+- 💼 Available for: Full-time roles · Freelance · Collaborations
