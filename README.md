@@ -10,7 +10,7 @@
 
 Building production-grade backend systems and exploring Web3.
 
-
+- 💼 Available for: Full-time roles · Freelance · Collaborations
 
 <div align="center">
   <a href="nyroozashraf@gmail.com">
@@ -57,4 +57,4 @@ Tech Stack
   </picture>
 </div>
 <br>
-- 💼 Available for: Full-time roles · Freelance · Collaborations
+
