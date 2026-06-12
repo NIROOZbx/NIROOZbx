@@ -39,7 +39,7 @@ Tech Stack
 <br>
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NIROOZbx&theme=transparent&count_private=true&border_radius=10&locale=en&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border=FF6B00" alt="Nirooz's streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NIROOZbx&theme=highcontrast&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
 <hr>
