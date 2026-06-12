@@ -4,8 +4,11 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NIROOZbx/NIROOZbx/main/banner-1.png" width="600" />
-</div>
+</div
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NIROOZbx/NIROOZbx/main/banner-video.gif" width="600" />
+</div>
 <br>
 **Full Stack Developer · Go · Distributed Systems**
 
