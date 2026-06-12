@@ -7,8 +7,14 @@
 Building production-grade backend systems and exploring Web3.
  Open to full-time backend roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-
+<div align="center">
+  <a href="nyroozashraf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/nirooz-vp-4a4227254/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 </div>
 
 ---
@@ -37,15 +43,6 @@ Building production-grade backend systems and exploring Web3.
 
 ---
 
-### Featured Projects
-
-**[Envoy](https://github.com/YOUR_USERNAME/envoy)** — Multi-tenant notification orchestration engine  
-Kafka-backed async delivery · Provider failover (SendGrid, Twilio, SES, Resend) · AES-256-GCM encrypted credentials · gRPC billing with Stripe · React dashboard
-
-**[LaunchKit](https://github.com/YOUR_USERNAME/launchkit)** — Web3 multi-chain airdrop campaign platform *(in progress)*  
-Go microservices · Solidity · Merkle tree distribution · SIWE wallet auth · wagmi
-
----
 
 ### GitHub Stats
 
