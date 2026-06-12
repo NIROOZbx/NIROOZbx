@@ -27,16 +27,10 @@ Building production-grade backend systems and exploring Web3.
 
 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,react,redux,tailwind,html,css,kafka,redis" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,redis,postgres" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,postman,figma," />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,postman,figma,postgres" />
 </p>
 
 <hr>
@@ -44,9 +38,8 @@ Tech Stack
 
 <br>
 
-<div align=center>
-   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NIROOZbx&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Nirooz 's" />
-
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NIROOZbx&theme=transparent&count_private=true&border_radius=10&locale=en&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border=FF6B00" alt="Nirooz's streak" />
 </div>
 
 <hr>
