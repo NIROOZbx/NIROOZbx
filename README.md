@@ -10,7 +10,7 @@
 **Full Stack Developer · Go · Distributed Systems**
 
 Building production-grade backend systems and exploring Web3.
- Open to full-time backend roles.
+ Open to full-time roles.
 
 
 
